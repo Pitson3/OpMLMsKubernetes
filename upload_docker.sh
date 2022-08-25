@@ -5,11 +5,16 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=<your docker ID/path>
+dockerpath=pitson3/flask-ml
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+#auth
+docker login
+#tag
+docker tag flask-ml $dockerpath
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath
