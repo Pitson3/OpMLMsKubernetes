@@ -5,9 +5,8 @@
 The project orchestrates and deploys a flask based machine learning microservice API through docker and kubernetes. The application includes a simple `sklearn` model which is trained 
 and used to predict  housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
 
-
 The dataset used is available at Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing).
----
+
 
 ## Setup the Environment
 
@@ -34,7 +33,6 @@ source .devops/bin/activate
 - **run_docker.sh**: The script that builds, lists and run docker image.
 - **run_kubernetes.sh**: The script to run docker image using kubernetes.
 - **upload_docker.sh**: The file script used to upload docker image to dockerhub.
--
 
 ### Running `app.py`
 
