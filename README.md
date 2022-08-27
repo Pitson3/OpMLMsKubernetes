@@ -1,4 +1,4 @@
-[![Pitson3](https://circleci.com/gh/pitson3/OpMLMsKubernetes.svg?style=svg)](https://circleci.com/gh/gh/pitson3)
+[![Pitson3](https://circleci.com/gh/pitson3/OpMLMsKubernetes.svg?style=svg)](https://circleci.com/gh/pitson3)
 
 ## Project Overview
 
