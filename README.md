@@ -1,4 +1,4 @@
-[![pitson3](https://circleci.com/gh/pitson3/OpMLMsKubernetes.svg?style=svg)]([![pitson3](https://circleci.com/gh/pitson3/OpMLMsKubernetes.svg?style=svg)](https://app.circleci.com/insights/github/Pitson3/OpMLMsKubernetes/workflows/workflow/jobs?branch=main))
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Pitson3/OpMLMsKubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Pitson3/OpMLMsKubernetes/tree/main)
 
 ## Project Overview
 
